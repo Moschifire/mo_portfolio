@@ -1,0 +1,9 @@
+.container h1 {
+    text-align: center;
+    margin: 5px;
+}
+
+.projects-wrap {
+    display: flex;
+    flex-wrap: wrap;
+}

@@ -5,6 +5,7 @@ import Banner from './components/banner/Banner';
 import Header from './components/header/Header';
 import Projects from './components/projects/Projects';
 import { projectList } from './components/Data';
+import Contact from './components/contact/Contact';
 
 function App() {
   const [projects, setProjects] = useState(projectList);
@@ -18,8 +19,8 @@ function App() {
       <Header />
       <Banner />
       <Projects projects={projects} />
-    </div>
-    
+      <Contact />
+    </div>  
   );
 }
 

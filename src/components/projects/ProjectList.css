@@ -15,6 +15,10 @@
     flex: 1;
 }
 
+.project-wrap:hover {
+    border: 1px solid purple;
+}
+
 .project-desc {
     position: relative;
     max-height: 200px;
@@ -30,4 +34,8 @@
 
 .link a {
     color: black;
+}
+
+.link:hover {
+    border: 1px solid purple;
 }

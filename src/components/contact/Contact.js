@@ -16,7 +16,7 @@ const Contact = () => {
             <a id="icon" href="https://twitter.com/SchinoTheRapper" className="btn" target="_blank"><FaTwitter /></a>
             <a id="icon" href="https://github.com/Moschifire" className="btn" target="_blank"><FaGithub /></a>
             <a id="icon" href="https://www.linkedin.com/in/mark-oladeinde-aa21271b2/" className="btn" target="_blank"><FaLinkedin /></a>
-            <a id="icon" href="https://drive.google.com/file/d/1TK0QAPoLZyPYpX22MOyJEzltATuZzQbT/view?usp=sharing" className="btn" target="_blank"><FaFileAlt /></a>
+            <a id="icon" href="https://drive.google.com/file/d/1oIkMSvQn9c0-iKSMpA3ZrGMtZ9YKR7GR/view?usp=sharing" className="btn" target="_blank"><FaFileAlt /></a>
         </div>
     </div>
   )

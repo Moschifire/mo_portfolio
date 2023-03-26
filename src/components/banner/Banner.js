@@ -11,7 +11,7 @@ const Banner = () => {
                 <Col xs={12} md={6} xl={7}>
                     <span className='tagline'>Welcome to my portfolio</span>
                     <h1>Hi I'm Mark Oladeinde</h1>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec auctor bibendum volutpat. Suspendisse dignissim metus vel velit vehicula, vel fermentum metus laoreet. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce sagittis at velit id tincidunt. Vestibulum tincidunt ante et tellus suscipit mollis. Duis volutpat diam massa, a volutpat erat luctus sed. Quisque laoreet vehicula aliquam. Aliquam id ligula sem. Proin tristique dolor eget diam finibus imperdiet. Nunc in lacus elementum, maximus lectus in, fringilla nibh. Nullam pretium lacinia aliquam. Praesent purus nibh, dignissim quis est placerat, pretium venenatis ex. In ultrices ex a tortor dictum sagittis. Sed vel ipsum sapien.</p>
+                    <p>Web developer as well as self-motivated content writer with years of experience in the edutech sector, seeking to use my creative skills to increase customer engagement by creating valuable content. I am seeking to collaborate with clients to create attractive websites that increase their brand’s awareness and market their products effectively.</p>
                 </Col>
                 <Col xs={12} md={6} xl={5}>
                     <img src={ headerImg } alt="" />

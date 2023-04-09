@@ -8,7 +8,7 @@ export const projectList = [
     {
         id: 2,
         title: "Pomodoro Clock",
-        description: "Also known as a 25 + 5 clock, this clock that was created with react has 5 breaks each with a session of 25 minutes. At each break, a beep alerts the user. It can be paused and reset.",
+        description: "Also known as a 25 + 5 clock, this clock that was created with react has 5 breaks each with a session of 25 minutes. At each break, a beep alerts the user.",
         url: "https://pomodoro-clock-sigma.vercel.app/"
     },
     {
@@ -20,7 +20,7 @@ export const projectList = [
     {
         id: 4,
         title: "Drum Machine",
-        description: "This drum machine was created with react. When a key is clicked, it plays a sound which is recorded and can be replayed. The speed of play as well as the volume can be adjusted.",
+        description: "This drum machine was created with react. When a key is clicked, it plays a sound which is recorded and can be replayed. Play speed and volume can be adjusted.",
         url: "https://drum-machine-nu-ruddy.vercel.app/"
     },
     {
@@ -56,7 +56,7 @@ export const projectList = [
     {
         id: 10,
         title: "Next.js Blog",
-        description: "This app was created to learn Next JS. It was created using create-next-app. It is a react project that is meant to simulate a blog. Users are able to navigate between different blog posts.",
+        description: "This app was created using create-next-app. It is a next project that is meant to simulate a blog. Users are able to navigate between different blog posts.",
         url: "https://nextjs-blog-moschifire.vercel.app/"
     }
 ]

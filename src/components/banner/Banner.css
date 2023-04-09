@@ -35,7 +35,7 @@ width: 96%;
 }
 .banner img {
     object-fit: cover;
-    width: 300px;
+    width: 250px;
     border-radius: 10px;
 animation: updown 3s linear infinite;
 }

@@ -1,6 +1,7 @@
 .banner {
 margin-top: 0;
 padding: 150px 0 100px 0;
+height: 100vh;
 /* background-image: url('./assets/img/banner-bg.png'); */
 /* background-position: top center; */
 /* background-size: cover; */
@@ -21,6 +22,7 @@ font-size: 65px;
 font-weight: 700;
 letter-spacing: 0.8px;
 line-height: 1;
+margin-top: 20px;
 margin-bottom: 20px;
 display: block;
 }
@@ -33,9 +35,12 @@ width: 96%;
 }
 .banner img {
     object-fit: cover;
-    width: 150px;
+    width: 300px;
     border-radius: 10px;
 animation: updown 3s linear infinite;
+}
+.row {
+    display: flex;
 }
 @keyframes updown {
     0% {

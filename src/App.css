@@ -10,6 +10,7 @@ font-family: 'Cormorant Upright', serif;
 html {
 scroll-behavior: smooth;
 scroll-padding-top: 75px;
+padding: 50px;
 }
 
 body {

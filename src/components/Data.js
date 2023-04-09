@@ -52,5 +52,11 @@ export const projectList = [
         title: "Recipe Finder",
         description: "This app was created using create-react-app. It is a react project that is meant to search for and return recipes. It returns data from edamam's recipe search API.",
         url: "https://recipe-finder-rho.vercel.app/"
+    },
+    {
+        id: 10,
+        title: "Next.js Blog",
+        description: "This app was created to learn Next JS. It was created using create-next-app. It is a react project that is meant to simulate a blog. Users are able to navigate between different blog posts.",
+        url: "https://nextjs-blog-moschifire.vercel.app/"
     }
 ]

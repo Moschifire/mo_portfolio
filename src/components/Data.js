@@ -58,5 +58,17 @@ export const projectList = [
         title: "Next.js Blog",
         description: "This app was created using create-next-app. It is a next project that is meant to simulate a blog. Users are able to navigate between different blog posts.",
         url: "https://nextjs-blog-moschifire.vercel.app/"
+    },
+    {
+        id: 11,
+        title: "React Quiz App",
+        description: "This quiz app was created with react. The app has a timer for each question and the score is presented at the end of the quiz based on correct answers.",
+        url: "https://quiz-app-moschifire.vercel.app/"
+    },
+    {
+        id: 12,
+        title: "React Notes App",
+        description: "This notes app was created using create-react-app. It has a mode toggler which changes light to dark mode. Each note has a capacity of 200 characters.",
+        url: "https://react-note-app-sigma.vercel.app/"
     }
 ]

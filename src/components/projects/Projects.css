@@ -1,4 +1,11 @@
-.container h1 {
+.project-container {
+    max-width: 1000px;
+    margin-right: auto;
+    margin-left: auto;
+    min-height: 100vh;
+}
+
+.project-container h1 {
     text-align: center;
     margin: 5px;
 }
@@ -6,4 +13,5 @@
 .projects-wrap {
     display: flex;
     flex-wrap: wrap;
+    gap: 1rem;
 }

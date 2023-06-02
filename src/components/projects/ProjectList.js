@@ -4,16 +4,20 @@ import "./ProjectList.css";
 const ProjectList = ({
     project: {
         title,
+        img,
         description,
-        url
+        web,
+        code
     }
 }) => {
   return (
     <div className='project-wrap'>
         <h3>{title}</h3>
+        <img src={img} alt="" />
         <p className='project-desc'>{description}</p>
-        <footer>
-            <button className='link'><a href={url} target="_blank">Check it out</a></button>
+        <footer className='footer'>
+            <button className='link'><a href={web} target="_blank">Web</a></button>
+            <button className='link'><a href={code} target="_blank">Code</a></button>
         </footer>
     </div>
   )

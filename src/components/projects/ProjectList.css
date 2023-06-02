@@ -1,9 +1,10 @@
 .project-wrap {
-    width: 290px;
-    height: 150px;
+    width: 300px;
+    height: 170px;
+    font-size: 2em;
     display: flex;
     flex-direction: column;
-    border: 1px solid greenyellow;
+    border: 1px solid #fff;
     margin: 10px;
     border-radius: 10px;
     background: #C31587;
@@ -16,7 +17,7 @@
 }
 
 .project-wrap:hover {
-    border: 1px solid purple;
+    border: 1px solid greenyellow;
 }
 
 .project-desc {
@@ -26,8 +27,15 @@
     padding: 0.6rem;
 }
 
+.footer {
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
 .link {
-    border: 1px solid greenyellow;
+    padding: 5px;
+    border: 1px solid #fff;
     border-radius: 5px;
     background: gray;
 }
@@ -37,5 +45,6 @@
 }
 
 .link:hover {
-    border: 1px solid purple;
+    cursor: pointer;
+    border: 1px solid greenyellow;
 }

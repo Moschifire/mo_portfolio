@@ -4,8 +4,8 @@ import "./Projects.css";
 
 const Projects = ({projects}) => {
   return (
-    <div className='container' id='projects'>
-      <h1>Browse through my projects</h1>
+    <div className='project-container' id='projects'>
+      <h1>Browse through some of my projects</h1>
       <div className='projects-wrap'>
           {projects.map((project) => (
               <ProjectList project={project} key={project.id} />

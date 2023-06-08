@@ -2,6 +2,9 @@
 margin-top: 0;
 padding: 150px 0 100px 0;
 height: 100vh;
+max-width: 1000px;
+margin-right: auto;
+margin-left: auto;
 /* background-image: url('./assets/img/banner-bg.png'); */
 /* background-position: top center; */
 /* background-size: cover; */

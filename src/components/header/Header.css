@@ -25,3 +25,8 @@ nav.navbar .navbar-nav a.nav-link.navbar-link:hover,
 nav.navbar .navbar-nav a.nav-link.navbar-link.active {
     opacity: 1;
 }
+
+.logo {
+  color: #EE6D01;
+  font-size: larger;
+}

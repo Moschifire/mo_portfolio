@@ -13,7 +13,9 @@ const ProjectList = ({
   return (
     <div className='project-wrap'>
         <h3>{title}</h3>
-        <img src={img} alt="" className='project-image' />
+        <a href={web} target="_blank">
+          <img src={img} alt="" className='project-image' />
+        </a>
         <p className='project-desc'>{description}</p>
         <footer className='footer'>
             <button className='link'><a href={web} target="_blank">Web</a></button>

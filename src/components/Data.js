@@ -38,5 +38,13 @@ export const projectList = [
         web: "https://react-note-app-sigma.vercel.app/",
         code: "https://github.com/Moschifire/react-note-app.git",
         img: "https://firebasestorage.googleapis.com/v0/b/my-portfolio-f5672.appspot.com/o/react-notes-app.jpg?alt=media&token=db65934b-edeb-4ec3-91de-10c306c1a024&_gl=1*1p58clt*_ga*MTQ0MjgwNjU0LjE2NzUzNjQzNzA.*_ga_CW55HF8NVT*MTY4NjI1MjM1OS4yLjEuMTY4NjI1MzA5MC4wLjAuMA.."
+    },
+    {
+        id: 6,
+        title: "React Weather App",
+        description: "This weather app created with react uses RESTApi to show weather information of a particular city as well as weather forecast for the next seven days.",
+        web: "https://my-weather-rust.vercel.app/",
+        code: "https://github.com/Moschifire/react-weather-app",
+        img: "https://firebasestorage.googleapis.com/v0/b/my-portfolio-f5672.appspot.com/o/react-weather-app.jpg?alt=media&token=5a81fd44-f7f4-4c71-8e34-0c8ea06a65f5"
     }
 ]
